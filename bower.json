@@ -1,7 +1,7 @@
 {
   "name": "herokuconnect",
   "description": "A starter project for AngularJS",
-  "version": "0.0.0",
+  "version": "1.8.2",
   "homepage": "https://github.com/zeyneponer94/herokuconnect",
   "license": "MIT",
   "private": true,
